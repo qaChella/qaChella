@@ -2,7 +2,7 @@
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning how to be freelance tester
 - 💞️ I’m looking to collaborate on testing
-- 📫 How to reach me ...
+- 📫 How to reach me marijach@yahoo.com
 
 <!---
 qaChella/qaChella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
